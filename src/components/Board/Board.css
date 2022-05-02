@@ -1,0 +1,37 @@
+.board {
+    max-width: 452px;
+    max-height: 452;
+    display: flex;
+    position: sticky;
+    flex-wrap: wrap;
+    margin-top: 3rem;
+  }
+  
+  @media (max-width: 700px) {
+    .board {
+      max-width: 302px;
+      max-height: 302px;
+    }
+  }
+
+
+  
+
+
+
+/*===============Media Queries=========*/
+
+@media screen and (max-width: 1024px) {
+  .board {
+    max-width: 302px;
+    max-height: 302px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .board {
+    max-width: 302px;
+    max-height: 302px;
+  }
+ 
+}

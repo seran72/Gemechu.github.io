@@ -1,0 +1,37 @@
+.Game{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10rem;
+    padding: 3rem;
+    position: relative;
+  }
+
+.game_item{
+  display: grid;
+  
+  gap: 1rem;
+  height: 350px;
+  border-radius: 20rem;
+  transition: var(--transition);
+}
+
+
+
+
+@media screen and (max-width: 1024px) {
+    .Game{
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+  
+    .game_item{
+        height: 68vh;
+    }
+  }
+  
+  @media screen and (max-width: 600px) {
+    .Game {
+        grid-template-columns: 1fr;
+        gap: 1.2rem;
+    }
+  }
