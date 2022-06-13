@@ -3,7 +3,7 @@ import './footer.css'
 import {FaFacebookF} from 'react-icons/fa'
 import {FiInstagram} from 'react-icons/fi'
 import {IoLogoTwitter} from 'react-icons/io'
-
+import {FaHandHoldingHeart} from 'react-icons/fa'
 
 
 const Footer = () => {
@@ -27,7 +27,9 @@ const Footer = () => {
       </div>
 
       <div className='footer_copyright'>
-        <small>&copy; CrisprG Inc. All rights reserved.</small>
+        <small>&copy; CrisprG Inc. All rights reserved.</small> <br></br>
+        <FaHandHoldingHeart/>
+        <small> Made with reactjs</small>
       </div>
     </footer>
 

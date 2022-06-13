@@ -21,6 +21,10 @@ const Services = () => {
             </li>
             <li>
                 <BiCheck className='service_list-icon'/>
+                <p>Django</p>
+            </li>
+            <li>
+                <BiCheck className='service_list-icon'/>
                 <p>Docker</p>
             </li>
             <li>
@@ -40,13 +44,13 @@ const Services = () => {
 
         <article className='service'>
           <div className='service_head'>
-            <h3>Info Sec</h3>
+            <h3>IT and Info Sec</h3>
           </div>
 
           <ul className='service_list'>
             <li>
                 <BiCheck className='service_list-icon'/>
-                <p>Nmap </p>
+                <p>SD-WAN </p>
             </li>
             <li>
                 <BiCheck className='service_list-icon'/>
@@ -56,14 +60,18 @@ const Services = () => {
                 <BiCheck className='service_list-icon'/>
                 <p>Wireshark </p>
             </li>
-            <li>
-                <BiCheck className='service_list-icon'/>
-                <p>Metasploit </p>
-            </li>
             
             <li>
                 <BiCheck className='service_list-icon'/>
-                <p>Networking TCP-IP</p>
+                <p>Metasploit - Malware Evasion </p>
+            </li>
+            <li>
+                <BiCheck className='service_list-icon'/>
+                <p>Intel NUC - firmware caching server </p>
+            </li>
+            <li>
+                <BiCheck className='service_list-icon'/>
+                <p>Networking TCP-IP-DNS-DHCP-VLAN</p> <br></br>
             </li>
             
           </ul>
@@ -71,7 +79,7 @@ const Services = () => {
 
         <article className='service'>
           <div className='service_head'>
-            <h3>Machine Learning</h3>
+            <h3>DS - Machine Learning</h3>
           </div>
 
           <ul className='service_list'>
@@ -90,6 +98,10 @@ const Services = () => {
             <li>
                 <BiCheck className='service_list-icon'/>
                 <p>Classification</p>
+            </li>
+            <li>
+                <BiCheck className='service_list-icon'/>
+                <p>Google Colab</p>
             </li>
             <li>
                 <BiCheck className='service_list-icon'/>

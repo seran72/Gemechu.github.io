@@ -9,7 +9,7 @@ import {FiDribbble} from 'react-icons/fi'
   return (
     <div className='header_socials'>
       
-            <a href='https://www.linkedin.com/in/seran-g-361925126/' target="_blank"><BsLinkedin/></a>
+            <a href='https://www.linkedin.com/in/serangemechu/' target="_blank"><BsLinkedin/></a>
             <a href='https://github.com/seran72' target="_blank"><FaGithub/></a>
             <a href='https://trypap.com/' target="_blank"><FiDribbble/></a>
     </div>
