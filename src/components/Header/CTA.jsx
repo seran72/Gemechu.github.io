@@ -1,5 +1,5 @@
 import React from 'react';
-import CV from '../../img/cv.pdf'
+import SG from '../../img/SeranGemechu.pdf'
 
 
 
@@ -7,7 +7,7 @@ import CV from '../../img/cv.pdf'
  const CTA = () => {
   return (
     <div className='cta'>
-        <a href={CV} download>
+        <a href={SG} download>
           <h1 className='button btnnn btn-1 '>Resume </h1>
         </a>
         <a href='#contact'>
