@@ -42,12 +42,12 @@ const About = () => {
             <article className='about_card'>
             <VscFolderLibrary className='about_icon'/>
               <h5>Career Status</h5>
-              <small>- IT Ops Intern @ TESLA</small>
+              <small>- SWE @ TESLA</small>
             </article>
           </div>
 
           <p>
-              4th year Computer Science at California State University,
+              Computer Science graduate from California State University,
               Sacramento. I'm fascinated by computing and always looking for
               ways to learn, improve and expand my technical skills.
               I'm excited by new opportunities and particularly interested in Software Engineering, Cyber Security, 
