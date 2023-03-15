@@ -21,20 +21,21 @@ const Services = () => {
             </li>
             <li>
                 <BiCheck className='service_list-icon'/>
-                <p>Django</p>
+                <p>Docker</p>
             </li>
             <li>
                 <BiCheck className='service_list-icon'/>
-                <p>Docker</p>
+                <p>Springboot</p>
+            </li>
+            <li>
+                <BiCheck className='service_list-icon'/>
+                <p>React JS</p>
             </li>
             <li>
                 <BiCheck className='service_list-icon'/>
                 <p>PostgreSQL </p>
             </li>
-            <li>
-                <BiCheck className='service_list-icon'/>
-                <p>HTML - CSS - JS</p>
-            </li>
+            
             <li>
                 <BiCheck className='service_list-icon'/>
                 <p>Data Structures and Algorithms</p>
@@ -50,7 +51,7 @@ const Services = () => {
           <ul className='service_list'>
             <li>
                 <BiCheck className='service_list-icon'/>
-                <p>SD-WAN </p>
+                <p>SD-Lora-WAN </p>
             </li>
             <li>
                 <BiCheck className='service_list-icon'/>
@@ -63,11 +64,11 @@ const Services = () => {
             
             <li>
                 <BiCheck className='service_list-icon'/>
-                <p>Metasploit - Malware Evasion </p>
+                <p>Metasploit</p>
             </li>
             <li>
                 <BiCheck className='service_list-icon'/>
-                <p>Intel NUC - firmware caching server </p>
+                <p>Wi-Fi Hacking: Wifite, Aircrack, Bully, Reaver </p>
             </li>
             <li>
                 <BiCheck className='service_list-icon'/>
@@ -85,7 +86,7 @@ const Services = () => {
           <ul className='service_list'>
             <li>
                 <BiCheck className='service_list-icon'/>
-                <p>Keras</p>
+                <p>Numpy</p>
             </li>
             <li>
                 <BiCheck className='service_list-icon'/>
@@ -101,7 +102,7 @@ const Services = () => {
             </li>
             <li>
                 <BiCheck className='service_list-icon'/>
-                <p>Google Colab</p>
+                <p>Google Colab, Jupyter</p>
             </li>
             <li>
                 <BiCheck className='service_list-icon'/>

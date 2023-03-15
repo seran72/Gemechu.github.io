@@ -10,7 +10,6 @@ import BackgroundAnimation from './components/BackgroundAnimation/BackgroundAnim
 import Project from './components/Project/Project.jsx'
 
 
-
 const App = () => {
   return (
     <>

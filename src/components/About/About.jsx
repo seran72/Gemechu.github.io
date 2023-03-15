@@ -34,15 +34,15 @@ const About = () => {
               <h5>I like:</h5>
               <small>- Soccer</small> <br></br>
               <small>- Reading</small> <br></br>
-              <small><a href='https://dev.to/crisprg' target='_blank'>- Writing Blogs</a> </small> <br></br>
               <small>- Programming</small><br></br>
+              <small><a href='https://cyberwbo.blogspot.com/' target='_blank'>- Writing Blogs</a> </small> <br></br>
               <small>- Golden Retrievers</small>
             </article>
 
             <article className='about_card'>
             <VscFolderLibrary className='about_icon'/>
               <h5>Career Status</h5>
-              <small>- SWE @ TESLA</small>
+              <small>- Application Engineer @EW</small>
             </article>
           </div>
 
@@ -50,7 +50,7 @@ const About = () => {
               Computer Science graduate from California State University,
               Sacramento. I'm fascinated by computing and always looking for
               ways to learn, improve and expand my technical skills.
-              I'm excited by new opportunities and particularly interested in Software Engineering, Cyber Security, 
+              I'm excited by new opportunities and particularly interested in Dev Ops, Software Engineering, Cyber Security, 
               and Machine Learning. 
           </p>
           
