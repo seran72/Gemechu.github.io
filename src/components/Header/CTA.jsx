@@ -1,9 +1,6 @@
 import React from 'react';
 import SG from '../../img/SeranGemechu.pdf'
 
-
-
-
  const CTA = () => {
   return (
     <div className='cta'>
