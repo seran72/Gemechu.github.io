@@ -3,6 +3,7 @@ import "./Scores.css";
 function Scores({ scores }) {
   return (
     <div className="scores">
+      <h1>AI Tic-tac-toe</h1>
       <div>
         <span>Player</span>
         <br />
