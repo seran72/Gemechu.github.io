@@ -35,23 +35,24 @@ const About = () => {
               <small>- Soccer</small> <br></br>
               <small>- Reading</small> <br></br>
               <small>- Programming</small><br></br>
-              <small><a href='https://cyberwbo.blogspot.com/' target='_blank'>- Writing Blogs</a> </small> <br></br>
+              <small><a href='https://cyberwbo.blogspot.com/' target='blank'>- Writing Blogs</a> </small> <br></br>
               <small>- Golden Retrievers</small>
             </article>
 
             <article className='about_card'>
             <VscFolderLibrary className='about_icon'/>
               <h5>Career Status</h5>
-              <small>- Application Engineer @EW</small>
+              <small>- IoT Application Engineer @EW</small>
             </article>
           </div>
 
           <p>
-              Computer Science graduate from California State University,
-              Sacramento. I'm fascinated by computing and always looking for
-              ways to learn, improve and expand my technical skills.
-              I'm excited by new opportunities and particularly interested in Dev Ops, Software Engineering, Cyber Security, 
-              and Machine Learning. 
+          As a recent Computer Science graduate from California State University, Sacramento, 
+          I am deeply passionate about computing and always seeking to enhance my technical skills. 
+          My eagerness to learn and improve has fueled my fascination with technology, particularly 
+          in the areas of DevOps, Software Engineering, Cyber Security, and Machine Learning. I find 
+          these fields to be both exciting and challenging, and I am constantly seeking out new opportunities 
+          to apply my knowledge and expertise.
           </p>
           
           <a href='#contact' className='btn btn-secondary'  > Let's Talk</a>
